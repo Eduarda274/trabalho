@@ -1,8 +1,24 @@
-# Análise de Vendas de Produtos
 
-Este é um programa Python que analisa vendas de uma lista de produtos. Calcula o total de produtos vendidos, a média da quantidade de produtos vendidos e o valor total de vendas.
+💰# Análise de Vendas de Produtos
 
-## Instalação
+Este projeto é um programa Python que realiza a análise de vendas de uma lista de produtos.
+O programa calcula o total de produtos vendidos, a média da quantidade de produtos vendidos e o valor total de vendas de todos os produtos. 
+Cada produto é representado como um dicionário contendo o nome do produto, o preço unitário e a quantidade vendida.
+
+## Funcionalidade
+
+O programa faz a análise com base em uma lista de produtos, onde cada produto é um dicionário com os seguintes campos:
+
+- `nome`: O nome do produto (string).
+- `preço_unitário`: O preço unitário do produto (float).
+- `quantidade`: A quantidade vendida do produto (inteiro).
+
+🔧## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/repo.git
+
 
 1. Clone o repositório:
    ```bash
